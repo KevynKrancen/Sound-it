@@ -14,8 +14,8 @@ Examples
 Here are some examples of the emotions detected by our model and the corresponding music generated:
 
 Example 1
-
-Example 2
+[![Sound-IT Demo](https://img.youtube.com/vi/26NKvjD6Ays/0.jpg)](https://www.youtube.com/watch?v=26NKvjD6Ays)
+<p>Click on the thumbnail to watch the Sound-IT demo.</p>
 
 Getting Started
 To get started with Sound-IT, you can clone our repository and follow the instructions in the README file.
