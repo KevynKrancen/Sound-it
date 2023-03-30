@@ -61,7 +61,7 @@ to a specific emotion according to 4.</p>
 
 Here are some examples of the emotions detected by our model and the corresponding music generated:
 
-Example 1
+Example 1 <br>
 [![Sound-IT Demo](https://img.youtube.com/vi/26NKvjD6Ays/0.jpg)](https://www.youtube.com/watch?v=26NKvjD6Ays)
 <p>Click on the thumbnail to watch the Sound-IT demo.</p>
 
