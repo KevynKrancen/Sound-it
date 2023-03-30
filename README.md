@@ -12,8 +12,9 @@ Examples
 Here are some examples of the emotions detected by our model and the corresponding music generated:
 
 Example 1
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dB8aR_1LLuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Example 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVy3Ah_lWj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Getting Started
 To get started with Sound-IT, you can clone our repository and follow the instructions in the README file.
@@ -21,5 +22,3 @@ To get started with Sound-IT, you can clone our repository and follow the instru
 Contributing
 We welcome contributions from the community. If you have any suggestions or would like to contribute, please open an issue or pull request on our GitHub repository.
 
-License
-Sound-IT is licensed under the MIT License. See the LICENSE file for details.
