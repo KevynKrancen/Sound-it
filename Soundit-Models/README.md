@@ -5,9 +5,10 @@ The proposed method offers a potential solution to the problem of high costs ass
 
 <h1 align="center" style="font-size: 48px;">How it works</h1>
 Our model is capable of recognizing a scene's dominant emotion by analyzing factors such as body language, facial expressions, lip reading, and background color. Using this emotion, the model generates a new piece of music ideally suited to the scene.
-
-<img width="331" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228778334-103d1250-7fdc-4f0b-be9a-6146af27f999.png"> <img width="331" alt="Screenshot 2023-03-30 at 11 33 13" src="https://user-images.githubusercontent.com/102467763/228778357-ea8cc5dc-8087-42be-bd3b-9f78d8307986.png">
-
+<div align="center">
+  <br><br>
+<img align="center" width="331" height="450" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228778334-103d1250-7fdc-4f0b-be9a-6146af27f999.png"> <img width="331" align="center" height="450" alt="Screenshot 2023-03-30 at 11 33 13" src="https://user-images.githubusercontent.com/102467763/228778357-ea8cc5dc-8087-42be-bd3b-9f78d8307986.png">
+</div>
 Examples
 Here are some examples of the emotions detected by our model and the corresponding music generated:
 
