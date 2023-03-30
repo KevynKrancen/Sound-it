@@ -12,11 +12,6 @@ Examples
 Here are some examples of the emotions detected by our model and the corresponding music generated:
 
 Example 1
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dB8aR_1LLuU"  frameborder="0" allowfullscreen></iframe>
-</div>
-Example 2
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vVy3Ah_lWj0" frameborder="0" allowfullscreen></iframe>
 
 Getting Started
 To get started with Sound-IT, you can clone our repository and follow the instructions in the README file.
