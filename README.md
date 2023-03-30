@@ -12,8 +12,9 @@ Examples
 Here are some examples of the emotions detected by our model and the corresponding music generated:
 
 Example 1
-
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dB8aR_1LLuU"  frameborder="0" allowfullscreen></iframe>
+</div>
 Example 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vVy3Ah_lWj0" frameborder="0" allowfullscreen></iframe>
 
