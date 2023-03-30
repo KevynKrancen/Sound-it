@@ -30,7 +30,7 @@ the average color of the video by averaging the
 color values of the pixels, and then assign the color
 to a specific emotion according to 4.</p>
 <div>
-<img align="center" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228815290-950b8dd9-a1d6-49a4-b897-7576f7c332a9.png"><img align="center" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228815392-a4deee54-312f-4798-b7b3-8782ece64353.png"> 
+<img align="center"width="300" height="200" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228815290-950b8dd9-a1d6-49a4-b897-7576f7c332a9.png"><img align="center"width="300" height="200" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228815392-a4deee54-312f-4798-b7b3-8782ece64353.png"> 
 </div>
 
 
