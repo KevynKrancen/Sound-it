@@ -30,7 +30,7 @@ the average color of the video by averaging the
 color values of the pixels, and then assign the color
 to a specific emotion according to 4.</p>
 <div>
-<img align="center" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228815290-950b8dd9-a1d6-49a4-b897-7576f7c332a9.png"><img align="center" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228815392-a4deee54-312f-4798-b7b3-8782ece64353.png"> 
+<img align="center"width="300" height="200" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228815290-950b8dd9-a1d6-49a4-b897-7576f7c332a9.png"><img align="center"width="300" height="200" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228815392-a4deee54-312f-4798-b7b3-8782ece64353.png"> 
 </div>
 
 
@@ -38,7 +38,7 @@ to a specific emotion according to 4.</p>
 <p align="center" >Using FER2013 as dataset and implementing VGG16 Neural Network Achitechture</p>
 <div align="center">
 <br>
-<img align="center" width="400" height="300" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228867413-becccc6d-1a3e-43df-abba-6b6b83f54d01.png"><img align="center" width="350" height="300" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228867789-a14e6978-bd91-4931-86bd-9e233f22d217.png">
+<img align="center" width="300" height="200" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228867413-becccc6d-1a3e-43df-abba-6b6b83f54d01.png"><img align="center" width="300" height="200" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228867789-a14e6978-bd91-4931-86bd-9e233f22d217.png">
 </div>
 
 
@@ -58,18 +58,18 @@ to a specific emotion according to 4.</p>
 <br>
 <img align="center" width="200" height="300" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228855123-4b3e754d-8170-4a9a-b97e-fd2a830affdc.png"><img align="center" width="200" height="100" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228855621-7521554d-4419-47c0-9090-814c082c9e50.gif">
 <br><br>
+
 Here are some examples of the emotions detected by our model and the corresponding music generated:
-<br><br> 
-[![Sound-IT Demo](https://img.youtube.com/vi/26NKvjD6Ays/0.jpg)](https://www.youtube.com/watch?v=26NKvjD6Ays) 
-<br><br>
-<p align="center">Click on the thumbnail to watch the Sound-IT demo.</p>
+
+Example 1 <br>
+[![Sound-IT Demo](https://img.youtube.com/vi/26NKvjD6Ays/0.jpg)](https://www.youtube.com/watch?v=VvsgzLhzV5Q)
+<p>Click on the thumbnail to watch the Sound-IT demo.</p>
 
 Getting Started
 To get started with Sound-IT, you can clone our repository and follow the instructions in the README file.
 
 Contributing
 We welcome contributions from the community. If you have any suggestions or would like to contribute, please open an issue or pull request on our GitHub repository.
-
 
 <h1 align="center" style="font-size: 48px;">IMPORTANT ! Acknowledgments </h1>
 
@@ -79,3 +79,4 @@ I would like to take a moment to express my gratitude to Nicolas Renotte for ins
 I would like to thank Nicolas Renotte for setting the bar high and showing me what is possible with passion, hard work, and dedication. Your inspiring work has been a great help in shaping my project, and I am grateful for your contribution to the field.
 
 Once again, I would like to express my heartfelt thanks to Nicolas Renotte for being an inspiration and driving force behind my project.
+
