@@ -38,7 +38,7 @@ to a specific emotion according to 4.</p>
 <p align="center" >Using FER2013 as dataset and implementing VGG16 Neural Network Achitechture</p>
 <div align="center">
 <br>
-<img align="center" width="400" height="300" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228867413-becccc6d-1a3e-43df-abba-6b6b83f54d01.png"><img align="center" width="350" height="300" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228867789-a14e6978-bd91-4931-86bd-9e233f22d217.png">
+<img align="center" width="300" height="200" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228867413-becccc6d-1a3e-43df-abba-6b6b83f54d01.png"><img align="center" width="300" height="200" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228867789-a14e6978-bd91-4931-86bd-9e233f22d217.png">
 </div>
 
 
