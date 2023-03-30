@@ -22,6 +22,3 @@ To get started with Sound-IT, you can clone our repository and follow the instru
 
 Contributing
 We welcome contributions from the community. If you have any suggestions or would like to contribute, please open an issue or pull request on our GitHub repository.
-
-License
-Sound-IT is licensed under the MIT License. See the LICENSE file for details.
