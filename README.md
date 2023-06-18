@@ -8,8 +8,8 @@ Our model is capable of recognizing a scene's dominant emotion by analyzing fact
 <div align="center">
   <br><br>
   <h1 align="center" style="font-size: 48px;">Sound-it PIPELINE</h1>
-  <img align="center" alt="Screenshot 2023-03-30 at 11 32 57" src="<img width="750" alt="image" src="https://github.com/KevynKrancen/Sound-it/assets/102467763/1addcfcf-0fcf-49e8-a955-0290681e88c4">
-"> 
+  <img width="876" alt="image" src="https://github.com/KevynKrancen/Sound-it/assets/102467763/480cc6a5-a2d2-4805-9d8e-6eaade0f8f30">
+
   <br><br>
  <h1 align="center" style="font-size: 48px;">Sound-it NN Achitectures & datasets</h1>
 <img align="center" width="300" height="415" alt="Screenshot 2023-03-30 at 11 32 57" src="https://user-images.githubusercontent.com/102467763/228778334-103d1250-7fdc-4f0b-be9a-6146af27f999.png"> <img width="300" align="center" height="415" alt="Screenshot 2023-03-30 at 11 33 13" src="https://user-images.githubusercontent.com/102467763/228778357-ea8cc5dc-8087-42be-bd3b-9f78d8307986.png">
