@@ -97,7 +97,7 @@ output = 'data.zip'
 gdown.download(url, output, quiet=False)
 gdown.extractall('data.zip')
 
-you can also train in you own language and own sentence by creating your own dataset with video and text aligment. important that the models is a CNN+RNN achitechture that mean thats for the Recurent Neural network you <h2< MUST ! </h2> have an predifine sentence lenght for example here 75 frames is the sentence lenght for every video and aligment otherwise the model won't work  
+you can also train in you own language and own sentence by creating your own dataset with video and text aligment. important that the models is a CNN+RNN achitechture that mean thats for the Recurent Neural network you <h2> MUST ! </h2> have an predifine sentence lenght for example here 75 frames is the sentence lenght for every video and aligment otherwise the model won't work  
     
 Contributing
 We welcome contributions from the community. If you have any suggestions or would like to contribute, please open an issue or pull request on our GitHub repository.
