@@ -70,13 +70,3 @@ To get started with Sound-IT, you can clone our repository and follow the instru
 
 Contributing
 We welcome contributions from the community. If you have any suggestions or would like to contribute, please open an issue or pull request on our GitHub repository.
-
-<h1 align="center" style="font-size: 48px;">IMPORTANT ! Acknowledgments </h1>
-
-
-I would like to take a moment to express my gratitude to Nicolas Renotte for inspiring me to pursue my project. Nicolas Renotte's innovative ideas and achievements in the field have served as a guiding light for my work.
-  
-I would like to thank Nicolas Renotte for setting the bar high and showing me what is possible with passion, hard work, and dedication. Your inspiring work has been a great help in shaping my project, and I am grateful for your contribution to the field.
-
-Once again, I would like to express my heartfelt thanks to Nicolas Renotte for being an inspiration and driving force behind my project.
-
